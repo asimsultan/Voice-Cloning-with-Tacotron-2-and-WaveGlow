@@ -1,0 +1,7 @@
+
+audio_path,text
+"audio_samples/sample1.wav","Hello, how are you?"
+"audio_samples/sample2.wav","I am fine, thank you."
+"audio_samples/sample3.wav","What is your name?"
+"audio_samples/sample4.wav","My name is John."
+"audio_samples/sample5.wav","Nice to meet you."
